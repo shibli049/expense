@@ -1,0 +1,4 @@
+expense
+=======
+
+Django expense manager
